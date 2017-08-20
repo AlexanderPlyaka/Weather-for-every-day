@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Здесь я задал цвет фона и изображение -->
+    <item
+        android:drawable="@color/gray"/>
+
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/background_start"/>
+    </item>
+
+</layer-list>
