@@ -1,1 +1,1 @@
-# Weather-for-every-day
+# Weather for every day
